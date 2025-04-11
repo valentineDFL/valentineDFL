@@ -25,3 +25,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+## ⚙️ Statistics:
+
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=ValentineDFL&theme=forest_winter&footer=&show_icons=true&title=ValentineDFL&description=Backend-developer&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
+
+<table>
+  <tr>
+    <td>
+     <img height="188px" align="Left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentineDFL&theme=github_dark"/>
+    </td>
+    <td>
+      <img height="188px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentineDFL&theme=github_dark&exclude={exclude}" />
+    </td>
+  </tr>
+</table>
